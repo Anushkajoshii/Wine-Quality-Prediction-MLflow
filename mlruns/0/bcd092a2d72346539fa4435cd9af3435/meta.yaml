@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anushkajoshi/Desktop/Wine-Quality-Prediction-MLflow/mlruns/0/bcd092a2d72346539fa4435cd9af3435/artifacts
+end_time: 1726689402771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcd092a2d72346539fa4435cd9af3435
+run_name: nimble-shrike-35
+run_uuid: bcd092a2d72346539fa4435cd9af3435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726689402762
+status: 3
+tags: []
+user_id: anushkajoshi
